@@ -74,7 +74,6 @@ Run all cells from top to bottom. The notebook reads the CSV from `data/` and sa
 
 ```
 ├── Karishma_Mekaliya_FintechEngagementAnalytics.ipynb   # full analysis
-├── Karishma_Mekaliya_ProjectReport.docx                 # project report
 ├── requirements.txt
 ├── README.md
 ├── data/

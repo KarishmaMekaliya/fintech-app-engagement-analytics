@@ -1,0 +1,10 @@
+# Python 3.10+ (developed on Python 3.12)
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+scikit-learn>=1.4
+vaderSentiment>=3.3.2
+notebook>=7.0
+
+# Only needed to re-collect fresh reviews (the dataset is already included in data/)
+google-play-scraper>=1.2.7
